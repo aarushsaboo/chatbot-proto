@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+proto.py
+actual_file.py
+hugging_face_test.py
+museum_tickets.db
+.env
